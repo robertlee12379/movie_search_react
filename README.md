@@ -5,7 +5,7 @@
 
 ## Features
 
-* Created a web app called Movie Search that allows users to type in query and retrieve information about the movies
+* Created a web app called Movie Search that allows users to type in a query and retrieve information about the movies
 * Used React Hooks to manage the state and Fetch API to pull data from https://www.themoviedb.org
 * Included CSS to style the colors, layouts, and fonts
 * Utilized: React, JS, HTML, CSS
